@@ -1,0 +1,12 @@
+[submodule "Assets/everystudio-library"]
+	path = Assets/everystudio-library
+	url = https://github.com/everystudio/everystudio-library
+[submodule "Assets/map.Module"]
+	path = Assets/map.Module
+	url = https://github.com/everystudio/map.Module
+[submodule "Assets/town.Resources"]
+	path = Assets/town.Resources
+	url = https://github.com/everystudio/town.Resources
+[submodule "Assets/town.Game"]
+	path = Assets/town.Game
+	url = https://github.com/everystudio/town.Game
